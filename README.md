@@ -1,0 +1,1 @@
+# salary-practice-school.c
